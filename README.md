@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="logo.svg" width="72" alt="Promptimizer logo">
   <h1>Promptimizer</h1>
   <p><strong>Turn a rough idea into a precisely engineered, ready-to-paste AI prompt — generated privately on your device.</strong></p>
   <p>No API key. No account. No servers. Nothing you type ever leaves your browser.</p>
